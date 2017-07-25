@@ -1,6 +1,6 @@
 {
   "name": "@mise-en-place/tools.clearfix",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "description": "Clearfix Tool",
   "main": "stylesheets/_tool-clearfix.scss",
   "keywords": [
